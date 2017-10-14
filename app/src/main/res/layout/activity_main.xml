@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.drawableclicklistener.MainActivity">
+
+    <com.example.drawableclicklistener.CustomEditText
+        android:id="@+id/acet_year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="19dp"
+        android:background="@drawable/edit_box"
+        android:drawableRight="@drawable/icodate"
+        android:gravity="center"
+        android:inputType="number"
+        android:padding="10dp"
+        android:text="2015" />
+
+</LinearLayout>

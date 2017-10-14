@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="view_color">#c1c1c1</color>
+
+    <!--Toolbar-->
+    <color name="toolbar_color">#363843</color>
+
+    <!--EditText-->
+    <color name="editbox_stroke_color">#99AAB1</color>
+    <color name="hint_edittext">#BABBC0</color>
+    <color name="edittext">#363843</color>
+
+
+    <color name="logintext">#333333</color>
+    <color name="datbasebutton">#E7A45F</color>
+    <color name="appversioncolor">#454757</color>
+    <color name="text">#FF43475A</color>
+    <color name="lightNewTextCol">#9AAAFE</color>
+
+
+
+</resources>
